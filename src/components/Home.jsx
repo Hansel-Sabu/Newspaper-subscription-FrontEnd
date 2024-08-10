@@ -9,7 +9,6 @@ const Home = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-
                         <div className="row g-3">
                             <div className="col col-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                                 <div id="carouselExample" class="carousel slide">
@@ -35,10 +34,6 @@ const Home = () => {
                                 </div>
                             </div>
                         </div>
-
-
-
-
                     </div>
                 </div>
             </div>

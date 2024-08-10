@@ -39,7 +39,7 @@ const AddSubscribers = () => {
                 <input type="email" className="form-control" />
               </div>
               <div className="col col-12 col-sm-12 col-md-6 col-xl-6 col-xl-6 col-xxl-6">
-                <button className="btn btn-warning">Submit</button>
+                <button className="btn btn-success">Submit</button>
               </div>
             </div>
           </div>
